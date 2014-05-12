@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[旭岚小清新]]></title>
+  <subtitle><![CDATA[高大上]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://52u.me/"/>
+  <updated>2014-05-12T12:45:19.987Z</updated>
+  <id>http://52u.me/</id>
+  
+  <author>
+    <name><![CDATA[旭岚]]></name>
+    <email><![CDATA[wotouteng@sina.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[新的开始]]></title>
+    <link href="http://52u.me/2014/05/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://52u.me/2014/05/12/新的开始/</id>
+    <published>2014-05-12T11:13:52.000Z</published>
+    <updated>2014-05-12T11:22:44.000Z</updated>
+    <content type="html"><![CDATA[<p>我随便写点什么！</p>
+<blockquote>
+<p>Every interaction is both precious and an opportunity to delight.</p>
+</blockquote>
+<figure class="highlight {bash}"><table><tr><td class="gutter"><pre>1
+2
+</pre></td><td class="code"><pre>.compact([<span class="number">0</span>, <span class="number">1</span>, <span class="keyword">false</span>, <span class="number">2</span>, ‘’, <span class="number">3</span>]);
+=&gt; [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>]
+</pre></td></tr></table></figure>
+
+
+<p><a href="http://blog.fens.me" target="_blank">粉丝日志</a></p>
+<p><img src="/images/git_logo.png" alt="这是一张图片"></p>
+]]></content>
+    
+    
+      <category term="new" scheme="http://52u.me/tags/new/"/>
+    
+      <category term="hello" scheme="http://52u.me/tags/hello/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://52u.me/2014/05/12/hello-world/"/>
+    <id>http://52u.me/2014/05/12/hello-world/</id>
+    <published>2014-05-12T11:06:48.000Z</published>
+    <updated>2014-05-12T11:06:48.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io" target="_blank">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs" target="_blank">documentation</a> to learn how to use.</p>
+]]></content>
+    
+    
+  </entry>
+  
+</feed>
