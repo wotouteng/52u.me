@@ -4,11 +4,11 @@
   <subtitle><![CDATA[高大上]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://52u.me/"/>
-  <updated>2014-05-12T12:45:19.987Z</updated>
+  <updated>2014-05-12T12:52:15.038Z</updated>
   <id>http://52u.me/</id>
   
   <author>
-    <name><![CDATA[旭岚]]></name>
+    <name><![CDATA[盗版猪妖]]></name>
     <email><![CDATA[wotouteng@sina.com]]></email>
   </author>
   
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[新的开始]]></title>
-    <link href="http://52u.me/2014/05/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
-    <id>http://52u.me/2014/05/12/新的开始/</id>
+    <link href="http://52u.me/2014/05/12/first-day/"/>
+    <id>http://52u.me/2014/05/12/first-day/</id>
     <published>2014-05-12T11:13:52.000Z</published>
-    <updated>2014-05-12T11:22:44.000Z</updated>
+    <updated>2014-05-12T12:49:34.000Z</updated>
     <content type="html"><![CDATA[<p>我随便写点什么！</p>
 <blockquote>
 <p>Every interaction is both precious and an opportunity to delight.</p>
@@ -39,6 +39,10 @@
       <category term="new" scheme="http://52u.me/tags/new/"/>
     
       <category term="hello" scheme="http://52u.me/tags/hello/"/>
+    
+      <category term="小清新" scheme="http://52u.me/categories/%E5%B0%8F%E6%B8%85%E6%96%B0/"/>
+    
+      <category term="我" scheme="http://52u.me/categories/%E5%B0%8F%E6%B8%85%E6%96%B0/%E6%88%91/"/>
     
   </entry>
   
